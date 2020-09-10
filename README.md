@@ -19,3 +19,8 @@ You may also add simple keycaps, for example I used this https://www.aliexpress.
 
 Firmware is developed by FreeJoy https://github.com/FreeJoy-Team/FreeJoyWiki
 Take a look at that project. 
+
+Firmware may be downloaded here https://github.com/godor2008/MFD_3/blob/master/MFD/Firmware/FreeJoy_v1_6_2b3.hex
+
+This is configuration file that contains mappings between physical and logical buttons. Should be uploaded through FreeJoy configurator after programming firmware.
+https://github.com/godor2008/MFD_3/blob/master/MFD/Firmware/FreeJoyLeft.conf
