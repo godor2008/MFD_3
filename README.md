@@ -1,5 +1,5 @@
 # MFD_3
-![Image](https://github.com/godor2008/MFD_3/blob/master/MFD/Image/small_buttons.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/MFD/Image/small_buttons.jpg)
 
 This is MFCD board for JF-17 module used in DCS World. It is similar to Thrustmaster Cougar panel, but larger. Designed to be used with 9.7 inch monitor 4:3 1024x768
 Designed in Altium Designer 20
