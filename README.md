@@ -25,3 +25,25 @@ Firmware may be downloaded here https://github.com/godor2008/MFD_3/blob/master/M
 
 This is configuration file that contains mappings between physical and logical buttons. Should be uploaded through FreeJoy configurator after programming firmware.
 https://github.com/godor2008/MFD_3/blob/master/MFD/Firmware/FreeJoyLeft.conf
+
+# Some assembly process:
+
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/1.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/2.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/3.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/4.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/5.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/6.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/7.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/8.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/9.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/10.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/11.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/12.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/13.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/14.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/15.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/16.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/17.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/18.jpg)
+![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/19.jpg)
