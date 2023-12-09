@@ -23,10 +23,25 @@ You may also add simple keycaps, for example I used this https://www.aliexpress.
 Firmware is developed by FreeJoy https://github.com/FreeJoy-Team/FreeJoyWiki
 Take a look at that project. 
 
-Firmware may be downloaded here https://github.com/godor2008/MFD_3/blob/master/MFD/Firmware/FreeJoy_v1_6_2b3.hex
+Firmware may be downloaded [here](https://github.com/godor2008/MFD_3/blob/small_buttons/MFD/Firmware/FreeJoy_v1_7_1b3.hex)
 
-This is configuration file that contains mappings between physical and logical buttons. Should be uploaded through FreeJoy configurator after programming firmware.
-https://github.com/godor2008/MFD_3/blob/master/MFD/Firmware/FreeJoyLeft.conf
+This is [configuration](https://github.com/godor2008/MFD_3/blob/small_buttons/MFD/Firmware/new_FreeJoyLeft.cfg) file that contains mappings between physical and logical buttons. Should be uploaded through FreeJoy configurator after programming firmware.
+
+Additionally you'll need to order:
+Tiny [HDMI](https://vi.aliexpress.com/item/33057698628.html) 10 cm cable for extension inside case. Order 2 A1 connectors and 10cm cable
+![image](https://github.com/godor2008/MFD_3/assets/1040630/173b196d-916a-4216-9e6a-b11b741dd1af)
+
+[XH 2.54 20 cm cables](https://vi.aliexpress.com/item/1005002160765607.html) for usb extension. Order 1 pack of each color
+
+[XH 2.54 4 pin angled connectors set](https://vi.aliexpress.com/item/4000029752260.html) for usb extension. You need only two of them, so order minimal pack you can
+![image](https://github.com/godor2008/MFD_3/assets/1040630/b1e457af-7536-40e4-b954-ec63185189ee)
+
+[Usb Connector B Type vertical](https://vi.aliexpress.com/item/32947971157.html)
+![image](https://github.com/godor2008/MFD_3/assets/1040630/5e891ae7-79d2-415f-b64a-cc2c8a94e054)
+
+
+
+
 
 # Some assembly process:
 
