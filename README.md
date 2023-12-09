@@ -6,9 +6,9 @@ Designed in Altium Designer 20
 
 Contains output files (Gerber) and elements list for production at https://jlcpcb.com/
 
-Gerber zip archive https://github.com/godor2008/MFD_3/blob/master/MFD/Project%20Outputs%20for%20Mfd3/Project%20Outputs%20for%20Mfd3.zip
-BOM https://github.com/godor2008/MFD_3/blob/master/MFD/Project%20Outputs%20for%20Mfd3/Bill%20of%20Materials-Mfd3.xlsx
-Pick and Place file https://github.com/godor2008/MFD_3/blob/master/MFD/Project%20Outputs%20for%20Mfd3/Pick%20Place%20for%20Mfd3.csv
+[Gerber zip archive](https://github.com/godor2008/MFD_3/blob/small_buttons/MFD/Project%20Outputs%20for%20Mfd3/Project%20Outputs%20for%20Mfd3.zip)
+[BOM](https://github.com/godor2008/MFD_3/blob/small_buttons/MFD/Project%20Outputs%20for%20Mfd3/Bill%20of%20Materials-Mfd3.xlsx)
+[Pick and Place file](https://github.com/godor2008/MFD_3/blob/small_buttons/MFD/Project%20Outputs%20for%20Mfd3/Pick%20Place%20for%20Mfd3.csv)
 
 You may download these files and use them to order boards with SMT asssembly at https://jlcpcb.com/
 
