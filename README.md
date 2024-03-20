@@ -64,3 +64,20 @@ Tiny [HDMI](https://vi.aliexpress.com/item/33057698628.html) 10 cm cable for ext
 ![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/17.jpg)
 ![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/18.jpg)
 ![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/19.jpg)
+
+# HDMI board
+Solder **HDMI 47659-1102 Molex** connector and **FFC/FPC 20pin 0.5mm** connector to board. Use board P16. You may use any from the set depending on your prefferable connectors.
+![20240318_194333](https://github.com/godor2008/MFD_3/assets/1040630/582cd13c-38ed-4669-8924-e5e7b32522d2)
+
+Then prepare:
+2 **M3 nylon locking nuts**
+2 **M3 Threaded Hex Brass Male Female Standoff 7mm**
+![20240320_214720](https://github.com/godor2008/MFD_3/assets/1040630/9e572513-0f21-4613-a651-1259a26b1b3b)
+
+And assemble it:
+![20240320_212444](https://github.com/godor2008/MFD_3/assets/1040630/1f68242c-530f-41b7-8fcf-dabf474bb29f)
+
+
+
+
+
