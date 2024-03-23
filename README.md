@@ -94,6 +94,9 @@ Prepare 2 **XH JST 2.54 4 pin female connector** and 4 **XH JST 2.54 20 cm cable
 Then assemble it. Pay attention that green and white wires not symmetrical
 ![20240321_224901](https://github.com/godor2008/MFD_3/assets/1040630/ea61a222-f7c9-44fc-8069-09cbf0b823e0)
 
+Now connect cable to USB board:
+![20240321_225242](https://github.com/godor2008/MFD_3/assets/1040630/878d10e1-e9d3-4fe9-b3c0-de5355abdf46)
+
 
 
 
