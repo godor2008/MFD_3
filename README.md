@@ -73,9 +73,19 @@ Then prepare:
 2 **M3 nylon locking nuts** and 2 **M3 Threaded Hex Brass Male Female Standoff 7mm**
 ![20240320_214720](https://github.com/godor2008/MFD_3/assets/1040630/60fbdf5e-7507-4745-a043-6cb139f78a28)
 
-
 And assemble it:
 ![20240320_212444](https://github.com/godor2008/MFD_3/assets/1040630/1f68242c-530f-41b7-8fcf-dabf474bb29f)
+
+# USB board
+Solder **USB-B vertical** and **XH 2.54 4 pin angled connector**
+![20240321_152739](https://github.com/godor2008/MFD_3/assets/1040630/5c45d0c7-f344-4b79-99db-3cd2aa12b416)
+
+Then prepare:
+2 **M3 nylon locking nuts**, 2 **M3 Threaded Hex Brass Male Female Standoff 14mm**, 2 **M3 washer**. Washers are needed to perfectly match height of USB connector
+![20240321_182308](https://github.com/godor2008/MFD_3/assets/1040630/5d29f562-a5be-439b-88ac-effe5a7af415)
+
+And assemble it:
+![20240321_183423](https://github.com/godor2008/MFD_3/assets/1040630/f98754e9-0c6b-4986-bb7f-086a589858ac)
 
 
 
