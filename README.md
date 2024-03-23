@@ -77,7 +77,7 @@ And assemble it:
 ![20240320_212444](https://github.com/godor2008/MFD_3/assets/1040630/1f68242c-530f-41b7-8fcf-dabf474bb29f)
 
 # USB board
-Solder **USB-B vertical** and **XH 2.54 4 pin angled connector**
+Solder **USB-B vertical** and **XH JST 2.54 4 pin male right angled connector**
 ![image](https://github.com/godor2008/MFD_3/assets/1040630/d5dbbd9d-60c8-45d6-afd0-b7f21dc5c638)
 
 Then prepare:
@@ -86,6 +86,15 @@ Then prepare:
 
 And assemble it:
 ![image](https://github.com/godor2008/MFD_3/assets/1040630/5c7c7a5b-8d20-4427-ae99-c572f131d0af)
+
+# USB cable
+Prepare 2 **XH JST 2.54 4 pin female connector** and 4 **XH JST 2.54 20 cm cables**
+![20240321_224224](https://github.com/godor2008/MFD_3/assets/1040630/f0f27c17-81c7-445b-afd2-94a185c74f62)
+
+Then assemble it. Pay attention that green and white wires not symmetrical
+![20240321_224901](https://github.com/godor2008/MFD_3/assets/1040630/ea61a222-f7c9-44fc-8069-09cbf0b823e0)
+
+
 
 
 
