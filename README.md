@@ -78,14 +78,15 @@ And assemble it:
 
 # USB board
 Solder **USB-B vertical** and **XH 2.54 4 pin angled connector**
-![20240321_152739](https://github.com/godor2008/MFD_3/assets/1040630/5c45d0c7-f344-4b79-99db-3cd2aa12b416)
+![image](https://github.com/godor2008/MFD_3/assets/1040630/d5dbbd9d-60c8-45d6-afd0-b7f21dc5c638)
 
 Then prepare:
 2 **M3 nylon locking nuts**, 2 **M3 Threaded Hex Brass Male Female Standoff 14mm**, 2 **M3 washer**. Washers are needed to perfectly match height of USB connector
-![20240321_182308](https://github.com/godor2008/MFD_3/assets/1040630/5d29f562-a5be-439b-88ac-effe5a7af415)
+![image](https://github.com/godor2008/MFD_3/assets/1040630/1d336fee-7463-4753-b97d-260d3659b9c4)
 
 And assemble it:
-![20240321_183423](https://github.com/godor2008/MFD_3/assets/1040630/49853b29-fddc-4fb6-9f37-f537f57d2ce8)
+![image](https://github.com/godor2008/MFD_3/assets/1040630/5c7c7a5b-8d20-4427-ae99-c572f131d0af)
+
 
 
 
