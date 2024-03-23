@@ -85,7 +85,8 @@ Then prepare:
 ![20240321_182308](https://github.com/godor2008/MFD_3/assets/1040630/5d29f562-a5be-439b-88ac-effe5a7af415)
 
 And assemble it:
-![20240321_183423](https://github.com/godor2008/MFD_3/assets/1040630/f98754e9-0c6b-4986-bb7f-086a589858ac)
+![20240321_183423](https://github.com/godor2008/MFD_3/assets/1040630/49853b29-fddc-4fb6-9f37-f537f57d2ce8)
+
 
 
 
