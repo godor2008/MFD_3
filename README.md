@@ -50,7 +50,7 @@ Make countersink holes so screw perfecty fits in it:
 ![image](https://github.com/godor2008/MFD_3/assets/1040630/c6b313ae-16f2-4fa6-8e5a-dd94683cdaaf)
 
 Prepare 19 **brass 20mm standoffs** and 19 **M3 8mm screws**:
-![20240324_204425](https://github.com/godor2008/MFD_3/assets/1040630/cea9ac40-d85d-48b7-af79-bbf88d5c0c27)
+![image](https://github.com/godor2008/MFD_3/assets/1040630/30bbc73b-e3de-4bdf-82d5-37a4c2673435)
 
 ![image](https://github.com/godor2008/MFD_3/assets/1040630/4c4778ec-4bcc-4461-99d4-3b523ac12dd3)
 
