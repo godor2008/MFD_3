@@ -56,6 +56,9 @@ Prepare 19 **brass 20mm standoffs** and 19 **M3 8mm screws**:
 
 ![image](https://github.com/godor2008/MFD_3/assets/1040630/f4dcfc7c-a225-43a4-adcb-48c940849672)
 
+![image](https://github.com/godor2008/MFD_3/assets/1040630/8f3b9fde-597b-4e88-ace9-6cad563f495e)
+
+
 
 
 
