@@ -45,6 +45,21 @@ Tiny [HDMI](https://vi.aliexpress.com/item/33057698628.html) 10 cm cable for ext
 
 # Some assembly process:
 
+# Middle plate
+Make countersink holes so screw perfecty fits in it:
+![image](https://github.com/godor2008/MFD_3/assets/1040630/c6b313ae-16f2-4fa6-8e5a-dd94683cdaaf)
+
+Prepare 19 **brass 20mm standoffs** and 19 **M3 8mm screws**:
+![20240324_204425](https://github.com/godor2008/MFD_3/assets/1040630/cea9ac40-d85d-48b7-af79-bbf88d5c0c27)
+
+![image](https://github.com/godor2008/MFD_3/assets/1040630/4c4778ec-4bcc-4461-99d4-3b523ac12dd3)
+
+![image](https://github.com/godor2008/MFD_3/assets/1040630/f4dcfc7c-a225-43a4-adcb-48c940849672)
+
+
+
+
+
 ![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/1.jpg)
 ![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/2.jpg)
 ![Image](https://github.com/godor2008/MFD_3/blob/small_buttons/Images/3.jpg)
