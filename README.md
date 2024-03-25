@@ -58,8 +58,8 @@ Prepare 19 **brass 20mm standoffs** and 19 **M3 8mm screws**:
 
 ![image](https://github.com/godor2008/MFD_3/assets/1040630/8f3b9fde-597b-4e88-ace9-6cad563f495e)
 
-
-
+Prepare 11 **M3 10mm screws**, 11 **M3 nuts with washer**, 11 **M3 nylon locking nuts**, 11 **small plates from steel 0.8mm-1mm** that will be used to hold LCD on place.
+![20240325_023449](https://github.com/godor2008/MFD_3/assets/1040630/51011179-de8f-4617-a918-5ee8e36b7897)
 
 
 
