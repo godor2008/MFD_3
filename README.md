@@ -114,3 +114,46 @@ Then assemble it. Pay attention that green and white wires not symmetrical
 
 Now connect cable to USB board:
 ![image](https://github.com/godor2008/MFD_3/assets/1040630/f8eb0d91-fd96-4ca6-bd59-a634d54a4519)
+
+
+# Loading Firmware
+Connect STM32 ST-Link programmer to board: SWDIO, SWCLK, GND, +3.3V
+
+Open STM32 ST-Link Utility
+![1](https://github.com/godor2008/MFD_3/assets/1040630/72e319e2-51bf-417a-9948-aeecdd1d2d20)
+
+Click _Target_ - _Connect_. You should see valid messages in console if connected.
+![2](https://github.com/godor2008/MFD_3/assets/1040630/5790aa64-33a8-4812-b055-b9d173722265)
+
+Click _File_ - _Open file_
+![3](https://github.com/godor2008/MFD_3/assets/1040630/183861bc-f738-41be-8c64-873bdd729da9)
+
+Select *.hex file and click _Open_
+![4](https://github.com/godor2008/MFD_3/assets/1040630/5dcb3db9-2086-45fb-8edf-166367ab9e80)
+
+Now _Target_ - _Program & Verify..._
+![5](https://github.com/godor2008/MFD_3/assets/1040630/991af21f-1d66-4d5c-85ef-e48dbe9841f8)
+
+Click _Start_
+![6](https://github.com/godor2008/MFD_3/assets/1040630/03ba9cfc-1483-4450-b08f-2b0fdb4f8601)
+
+Progress bar should become green and when done window may be closed. You should see _Verification...OK_ in console
+![7](https://github.com/godor2008/MFD_3/assets/1040630/f1cc01d1-81e1-42c1-85d1-2551a7eef540)
+
+Now disconnect STM32 programmer from board.
+
+# Loading Configuration
+Connect board via USB and launch FreeJoyQt configurator. It should have green box and deafult name FreeJoy with version. It means firmware is present on board and we can now upload our configuration for buttons.
+![8](https://github.com/godor2008/MFD_3/assets/1040630/75b31efc-5461-4b93-8bf7-e2c6796762a8)
+
+Click on _Load config from file_. Navigate to config file and click _Open_
+![9](https://github.com/godor2008/MFD_3/assets/1040630/12965241-829c-4571-b183-be4f7e941bdb)
+
+Now click on _Write config to Device_
+![10](https://github.com/godor2008/MFD_3/assets/1040630/822ce6a0-0388-41bc-8fe3-1518a46afda4)
+
+After successful write, default name on top should change to one of _FreeJoyLeft_/_FreeJoyCenter_/_FreeJoyRight_
+![11](https://github.com/godor2008/MFD_3/assets/1040630/799f16e5-ce93-47f8-b614-d717b4d418a2)
+
+Repeat above steps for each MFD by selecting corresponding configuration file. Only things that differ between files are _DeviceName_ and _USB PID_. Different _USB PID_ is required so Windows could distinguish multiple devices when they are connected same time. These settings may be changed in _Advanced_ tab:
+![12](https://github.com/godor2008/MFD_3/assets/1040630/0a9a4589-8b8d-4bb4-a121-796a16b3383a)
