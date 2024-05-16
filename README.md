@@ -42,6 +42,41 @@ Tiny [HDMI](https://vi.aliexpress.com/item/33057698628.html) 10 cm cable for ext
 
 
 
+|                                     | Price for 1 item, usd |  Quantity |   Price |
+|-------------------------------------|----------------------:|----------:|--------:|
+| HDMI board from aliexpress          |                   2,4 |         1 |     2,4 |
+| HDMI 10 cm FFC cable                |                 0,038 |         1 |   0,038 |
+| HDMI 10 cm FFC cable Shipping       |                  1,46 |         1 |    1,46 |
+| M4 River Nut                        |                  0,17 |         4 |    0,68 |
+| M6 Washer                           |                 0,025 |         4 |     0,1 |
+| M3 20 mm brass standoff             |                  0,16 |        19 |    3,04 |
+| M3x8 bolt countersink               |                 0,025 |        19 |   0,475 |
+| M3 14 mm brass male female standoff |                  0,16 |         2 |    0,32 |
+| M3 washer                           |                 0,024 |         2 |   0,048 |
+| Molex HDMI connector                |                   4,8 |         1 |     4,8 |
+| M3 7 mm brass male female standoff  |                  0,13 |         2 |    0,26 |
+| M3 nylon locking nuts               |                 0,039 |         4 |   0,156 |
+| XH JST 2.54 20 cm cable             |                 0,055 |         4 |    0,22 |
+| M3x10 bolt                          |                  0,04 |        30 |     1,2 |
+| M3 nylon locking nuts               |                 0,039 |        13 |   0,507 |
+| M3 nut with washer                  |                 0,025 |        15 |   0,375 |
+| M3x10 screw                         |                  0,04 |        19 |    0,76 |
+| M2.5x10 bolt                        |                 0,037 |         6 |   0,222 |
+| M2.5 nylon locking nut              |                 0,045 |        11 |   0,495 |
+| M3x16 bolt                          |                 0,044 |         2 |   0,088 |
+| M4x16 bolt                          |                   0,1 |         4 |     0,4 |
+| M2x16 bolt                          |                 0,036 |         9 |   0,324 |
+| M2 nylon locking nut                |                 0,052 |         9 |   0,468 |
+| USB-B vertical                      |                  1,58 |         1 |    1,58 |
+| USB adapter PCB                     |                     2 |         1 |       2 |
+| Main PCB with buttons               |                 10,47 |         1 |   10,47 |
+| LCD with controller                 |                    52 |         1 |      52 |
+| 3D printed case                     |                    32 |         1 |      32 |
+| Aluminum plates                     |                  13,5 |         2 |      27 |
+|                                     |                       |           |         |
+|                                     |                       | Total USD | 143,886 |
+
+
 
 # Some assembly process:
 
