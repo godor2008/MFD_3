@@ -73,8 +73,8 @@ Tiny [HDMI](https://vi.aliexpress.com/item/33057698628.html) 10 cm cable for ext
 | LCD with controller                 |                    52 |         1 |      52 |
 | 3D printed case                     |                    32 |         1 |      32 |
 | Aluminum plates                     |                  13,5 |         2 |      27 |
-|                                     |                       |           |         |
-|                                     |                       | Total USD | 143,886 |
+| KeyCap                              |                  0,146|        32 |   4,672 |
+                                                              | Total USD | 148,558 |
 
 
 
